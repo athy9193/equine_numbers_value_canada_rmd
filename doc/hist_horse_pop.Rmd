@@ -1,6 +1,6 @@
 ---
 title: "Historical horse population in Canada"
-bibliography: references.bib
+bibliography: horse_refs.bib
 params:
   province: "Alberta"
 output: 
